@@ -1,0 +1,29 @@
+In the en.txt you will need to do these steps in order for the mod to successfully function.
+
+You will see this.
+
+"menu_jukebox_" : " ",
+
+"menu_jukebox_screen_ " : " 
+
+Enter whatever you please for these. (Keep it simple) for the both the menu_jukebox and screen, lower case
+only and underscores when identifying a space. for example
+
+"menu_jukebox_tutorial"
+"menu_jukebox_screen_tutorial" : "
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Add the exact same thing to the end of the "menu_jukebox_screen_"
+
+In the end quatations where it says "Tutorial" This is where you will see the name in the track in the
+settings of Payday 2. Once again, do whatever you please no restrictions.
+
+For example,
+
+"menu_jukebox_tutorial" : "Tutorial",
+"menu_jukebox_screen_tutorial" : "Tutorial
+
+These should match with each other.
+Once you have completed these steps remember to save and you have finished.
+

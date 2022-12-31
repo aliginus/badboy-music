@@ -1,0 +1,19 @@
+ <?xml version="1.0"?>
+
+-<table name="I've Been A Bad Boy Cover by Payday 2 Players">
+
+<!-- ^ here you will add the name you have used in your .txt file. Remember lower case and underscores are accepted^ 
+		you would simply add tutorial_lol (Obviously it would be whatever you wrote)-->
+
+     <Localization default="en.txt" directory="loc"/>
+
+<!-- ^Leave this alone it does not have to be touched^ -->
+
+     <MenuMusic source="sounds/badboy.ogg " id="badboy"/>
+	 
+	<!-- ^Here you will add your .ogg file and change the id to the once you created in the .txt file
+			Where it says "sounds/" you will add the .ogg file you have created word for word. For example menu.ogg-->
+<!-- If you would like you are free to delete all of the green text shown. I hope you find this helpful and enjoy! -->
+
+
+  </table>

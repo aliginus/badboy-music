@@ -1,0 +1,6 @@
+Here in this folder you will add the .ogg file. You can create a .ogg file by converting a mp3 file
+to .ogg format.
+
+Youtube to mp3: https://www.easymp3converter.com/
+
+Mp3 to .ogg converter: https://www.zamzar.com/convert/mp3-to-ogg/

@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_badboy" : "I've Been A Bad Boy Cover by Payday 2 Players",
+    "menu_jukebox_screen_badboy" : "I've Been A Bad Boy Cover by Payday 2 Players"
+}
